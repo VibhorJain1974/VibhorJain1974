@@ -1,26 +1,25 @@
 <div align="center">
 
-```ansi
-[1;38;5;51m██╗  [1;38;5;45m ██╗[1;38;5;39m██╗█[1;38;5;33m█████[1;38;5;63m╗ ██[1;38;5;99m████[1;38;5;135m╗ ██╗[1;38;5;171m  ██[1;38;5;207m╗ ██[1;38;5;206m████╗[1;38;5;205m ███[1;38;5;199m███╗[0m
-[1;38;5;51m██║  [1;38;5;45m ██║[1;38;5;39m██║█[1;38;5;33m█╔══█[1;38;5;63m█╗██[1;38;5;99m╔══█[1;38;5;135m█╗██║[1;38;5;171m  ██[1;38;5;207m║██╔[1;38;5;206m═══██[1;38;5;205m╗██╔[1;38;5;199m══██[1;38;5;198m╗[0m
-[1;38;5;51m██║  [1;38;5;45m ██║[1;38;5;39m██║█[1;38;5;33m█████[1;38;5;63m╔╝██[1;38;5;99m████[1;38;5;135m╔╝███[1;38;5;171m████[1;38;5;207m║██║[1;38;5;206m   ██[1;38;5;205m║███[1;38;5;199m███╔[1;38;5;198m╝[0m
-[1;38;5;51m╚██╗ [1;38;5;45m██╔╝[1;38;5;39m██║█[1;38;5;33m█╔══█[1;38;5;63m█╗██[1;38;5;99m╔══█[1;38;5;135m█╗██╔[1;38;5;171m══██[1;38;5;207m║██║[1;38;5;206m   ██[1;38;5;205m║██╔[1;38;5;199m══██[1;38;5;198m╗[0m
-[1;38;5;51m ╚███[1;38;5;45m█╔╝ [1;38;5;39m██║█[1;38;5;33m█████[1;38;5;63m╔╝██[1;38;5;99m████[1;38;5;135m╔╝██║[1;38;5;171m  ██[1;38;5;207m║╚██[1;38;5;206m████╔[1;38;5;205m╝██║[1;38;5;199m  ██[1;38;5;198m║[0m
-[1;38;5;51m  ╚══[1;38;5;45m═╝  [1;38;5;39m╚═╝╚[1;38;5;33m═════[1;38;5;63m╝ ╚═[1;38;5;99m════[1;38;5;135m╝ ╚═╝[1;38;5;171m  ╚═[1;38;5;207m╝ ╚═[1;38;5;206m════╝[1;38;5;205m ╚═╝[1;38;5;199m  ╚═[1;38;5;198m╝[0m
-[1;38;5;51m     [1;38;5;45m    [1;38;5;39m    [1;38;5;33m    █[1;38;5;63m█╗ █[1;38;5;99m████[1;38;5;135m╗ ██╗[1;38;5;171m███╗[1;38;5;207m   █[1;38;5;206m█╗[0m
-[1;38;5;51m     [1;38;5;45m    [1;38;5;39m    [1;38;5;33m    █[1;38;5;63m█║██[1;38;5;99m╔══█[1;38;5;135m█╗██║[1;38;5;171m████[1;38;5;207m╗  █[1;38;5;206m█║[0m
-[1;38;5;51m     [1;38;5;45m    [1;38;5;39m    [1;38;5;33m    █[1;38;5;63m█║██[1;38;5;99m████[1;38;5;135m█║██║[1;38;5;171m██╔█[1;38;5;207m█╗ █[1;38;5;206m█║[0m
-[1;38;5;51m     [1;38;5;45m    [1;38;5;39m   █[1;38;5;33m█   █[1;38;5;63m█║██[1;38;5;99m╔══█[1;38;5;135m█║██║[1;38;5;171m██║╚[1;38;5;207m██╗█[1;38;5;206m█║[0m
-[1;38;5;51m     [1;38;5;45m    [1;38;5;39m   ╚[1;38;5;33m█████[1;38;5;63m╔╝██[1;38;5;99m║  █[1;38;5;135m█║██║[1;38;5;171m██║ [1;38;5;207m╚███[1;38;5;206m█║[0m
-[1;38;5;51m     [1;38;5;45m    [1;38;5;39m    [1;38;5;33m╚════[1;38;5;63m╝ ╚═[1;38;5;99m╝  ╚[1;38;5;135m═╝╚═╝[1;38;5;171m╚═╝ [1;38;5;207m ╚══[1;38;5;206m═╝[0m
-
-[38;5;245m      backend  ·  applied ML  ·  systems for constrained devices[0m
 ```
+██╗   ██╗██╗██████╗ ██████╗ ██╗  ██╗ ██████╗ ██████╗
+██║   ██║██║██╔══██╗██╔══██╗██║  ██║██╔═══██╗██╔══██╗
+██║   ██║██║██████╔╝██████╔╝███████║██║   ██║██████╔╝
+╚██╗ ██╔╝██║██╔══██╗██╔══██╗██╔══██║██║   ██║██╔══██╗
+ ╚████╔╝ ██║██████╔╝██████╔╝██║  ██║╚██████╔╝██║  ██║
+  ╚═══╝  ╚═╝╚═════╝ ╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝
+                 ██╗ █████╗ ██╗███╗   ██╗
+                 ██║██╔══██╗██║████╗  ██║
+                 ██║███████║██║██╔██╗ ██║
+            ██   ██║██╔══██║██║██║╚██╗██║
+            ╚█████╔╝██║  ██║██║██║ ╚████║
+             ╚════╝ ╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝
+```
+
+**backend · applied ML · systems for constrained devices**
 
 </div>
 
 ```yaml
-# ─────────────────────────────────────────────────────────────────────
 name:       Vibbhor Jain
 role:       Third-year B.Tech, AI & Machine Learning
 university: VIPS-TC, GGSIPU — New Delhi, India
@@ -29,7 +28,6 @@ focus:      [ backend, applied ML, systems for constrained devices ]
 shipping:   KAVACH — space weather alerts via Hindi voice calls
 status:     open to software / ML engineering internships
 contact:    jainvibbhor@gmail.com
-# ─────────────────────────────────────────────────────────────────────
 ```
 
 ```console
@@ -43,116 +41,120 @@ $ vibbhor --thesis
   and why Helix runs entirely in the browser with no server.
 ```
 
-## `~/` builds
+## builds
 
-```ansi
-[38;5;51m╭─[ KAVACH ]───────────────────────────────────────────────────────────────╮[0m
-[38;5;51m│[0m [1;38;5;255mAutonomous space weather shield        LIVE  ·  Team 404_SHINOBI[0m         [38;5;51m│[0m
-[38;5;51m│[0m [0m                                                                         [38;5;51m│[0m
-[38;5;51m│[0m [38;5;245mMay 2024 brought the strongest geomagnetic storm in 20 years.[0m            [38;5;51m│[0m
-[38;5;51m│[0m [38;5;245mIndia's grid utilities got zero automated warning.[0m                       [38;5;51m│[0m
-[38;5;51m│[0m [0m                                                                         [38;5;51m│[0m
-[38;5;51m│[0m [38;5;51mNASA DONKI  ─┐[0m                                                           [38;5;51m│[0m
-[38;5;51m│[0m [38;5;51m             ├──>  severity model  ──>  28 DISCOM zones  ──>  CALL[0m       [38;5;51m│[0m
-[38;5;51m│[0m [38;5;51mNOAA SWPC   ─┘[0m                                                           [38;5;51m│[0m
-[38;5;51m│[0m [0m                                                                         [38;5;51m│[0m
-[38;5;51m│[0m [38;5;48m+ Hindi voice calls to feature phones. No app. No internet.[0m              [38;5;51m│[0m
-[38;5;51m│[0m [38;5;48m+ 13-endpoint FastAPI backend, SSE streaming, 22.6s replay[0m               [38;5;51m│[0m
-[38;5;51m│[0m [38;5;48m+ Backtested on 4 storms: 847 alerts, ~6 hr mean lead time[0m               [38;5;51m│[0m
-[38;5;51m│[0m [0m                                                                         [38;5;51m│[0m
-[38;5;51m│[0m [38;5;198mFastAPI · APScheduler · Next.js 14 · Supabase · Twilio · Railway[0m         [38;5;51m│[0m
-[38;5;51m╰──────────────────────────────────────────────────────────────────────────╯[0m
+```diff
+@@  KAVACH · autonomous space weather shield · LIVE · Team 404_SHINOBI  @@
 
-[38;5;141m╭─[ URBAN-GENX ]───────────────────────────────────────────────────────────╮[0m
-[38;5;141m│[0m [1;38;5;255mPrivacy-preserving synthetic city digital twin[0m                           [38;5;141m│[0m
-[38;5;141m│[0m [0m                                                                         [38;5;141m│[0m
-[38;5;141m│[0m [38;5;245mMost "private" ML claims are never tested. So I attacked my own model.[0m   [38;5;141m│[0m
-[38;5;141m│[0m [0m                                                                         [38;5;141m│[0m
-[38;5;141m│[0m [38;5;48m+ DP-SGD on a cGAN discriminator at eps <= 10.0, delta = 1e-5[0m            [38;5;141m│[0m
-[38;5;141m│[0m [38;5;48m+ Shadow-model membership inference run against my own weights[0m           [38;5;141m│[0m
-[38;5;141m│[0m [38;5;220m      AUC 0.54  ──  statistically a coin flip[0m                            [38;5;141m│[0m
-[38;5;141m│[0m [38;5;48m+ Federated: 2 Flower clients, 5 FedAvg rounds, Docker Compose[0m           [38;5;141m│[0m
-[38;5;141m│[0m [0m                                                                         [38;5;141m│[0m
-[38;5;141m│[0m [38;5;198mPyTorch · Opacus · Flower · UNet cGAN · Beta-VAE · SBERT[0m                 [38;5;141m│[0m
-[38;5;141m╰──────────────────────────────────────────────────────────────────────────╯[0m
+! May 2024 brought the strongest geomagnetic storm in 20 years.
+! India's grid utilities got zero automated warning.
 
-[38;5;48m╭─[ MEMORIA ]──────────────────────────────────────────────────────────────╮[0m
-[38;5;48m│[0m [1;38;5;255mFull-stack photo platform                                     LIVE[0m       [38;5;48m│[0m
-[38;5;48m│[0m [0m                                                                         [38;5;48m│[0m
-[38;5;48m│[0m [38;5;48m+ SSR auth, admin/member/viewer RBAC enforced per group[0m                  [38;5;48m│[0m
-[38;5;48m│[0m [38;5;48m+ Direct-to-R2 presigned uploads, media never hits the DB tier[0m           [38;5;48m│[0m
-[38;5;48m│[0m [38;5;48m+ 4-table Postgres schema: photo, video, live-photo, boomerang[0m           [38;5;48m│[0m
-[38;5;48m│[0m [38;5;48m+ Scoped, built, debugged and deployed solo, end to end[0m                  [38;5;48m│[0m
-[38;5;48m│[0m [0m                                                                         [38;5;48m│[0m
-[38;5;48m│[0m [38;5;198mNext.js 16 · TypeScript · Supabase · Cloudflare R2 · Tailwind v4[0m         [38;5;48m│[0m
-[38;5;48m╰──────────────────────────────────────────────────────────────────────────╯[0m
+    NASA DONKI ─┐
+                ├──>  severity model  ──>  28 DISCOM zones  ──>  CALL
+    NOAA SWPC  ─┘
 
-[38;5;208m╭─[ CROP RADAR ]───────────────────────────────────────────────────────────╮[0m
-[38;5;208m│[0m [1;38;5;255mGNN climate risk across 30 Indian agricultural zones[0m                     [38;5;208m│[0m
-[38;5;208m│[0m [0m                                                                         [38;5;208m│[0m
-[38;5;208m│[0m [38;5;48m+ LightGCN in plain PyTorch. No torch_geometric.[0m                         [38;5;208m│[0m
-[38;5;208m│[0m [38;5;48m+ 5-class risk classification over a 30-zone adjacency graph[0m             [38;5;208m│[0m
-[38;5;208m│[0m [38;5;48m+ SHAP KernelExplainer, PyDeck risk map, PDF export[0m                      [38;5;208m│[0m
-[38;5;208m│[0m [38;5;48m+ Live Open-Meteo + SoilGrids v2 ingestion, offline fallback[0m             [38;5;208m│[0m
-[38;5;208m│[0m [0m                                                                         [38;5;208m│[0m
-[38;5;208m│[0m [38;5;198mPython · PyTorch · LightGCN · SHAP · Streamlit · PyDeck[0m                  [38;5;208m│[0m
-[38;5;208m╰──────────────────────────────────────────────────────────────────────────╯[0m
++ Hindi voice calls to feature phones. No app. No internet.
++ 13-endpoint FastAPI backend, SSE streaming, 22.6s full storm replay
++ Backtested on 4 storms (2003-2024): 847 alerts, ~6 hr mean lead time
++ Polls DONKI every 15 min, SWPC every 5 min — zero human trigger
 
-[38;5;198m╭─[ HELIX ]────────────────────────────────────────────────────────────────╮[0m
-[38;5;198m│[0m [1;38;5;255mOffline-first healthcare toolkit[0m                                         [38;5;198m│[0m
-[38;5;198m│[0m [0m                                                                         [38;5;198m│[0m
-[38;5;198m│[0m [38;5;245mZero server. Zero install. One URL, then works with the network off.[0m     [38;5;198m│[0m
-[38;5;198m│[0m [0m                                                                         [38;5;198m│[0m
-[38;5;198m│[0m [38;5;48m+ VERA    skin-lesion classification, TF.js + WebGL, 4s inference[0m        [38;5;198m│[0m
-[38;5;198m│[0m [38;5;48m+ VERUM   counterfeit-drug detection via CIELab + DCT[0m                    [38;5;198m│[0m
-[38;5;198m│[0m [38;5;48m+ ASCEND  WebGPU compute shaders + WebRTC mesh[0m                           [38;5;198m│[0m
-[38;5;198m│[0m [0m                                                                         [38;5;198m│[0m
-[38;5;198m│[0m [38;5;198mTypeScript · TensorFlow.js · WebGL · WebGPU · WebRTC · pnpm[0m              [38;5;198m│[0m
-[38;5;198m╰──────────────────────────────────────────────────────────────────────────╯[0m
+# FastAPI · APScheduler · Next.js 14 · Supabase · Twilio · Railway
+# github.com/VibhorJain1974/kavach-faraway-2026
 ```
 
-```console
-$ ls -1 ~/repos --sort=impact
+```diff
+@@  URBAN-GENX · privacy-preserving synthetic city digital twin  @@
 
-  kavach-faraway-2026   github.com/VibhorJain1974/kavach-faraway-2026
-  Urban-GenX            github.com/VibhorJain1974/Urban-GenX
-  memoria               memoria-gamma-ten.vercel.app
-  crop_radar            github.com/VibhorJain1974/crop_radar
-  Helix                 github.com/VibhorJain1974/Helix
+! Most "private" ML claims are never tested. So I attacked my own model.
+
++ DP-SGD on a cGAN discriminator at eps <= 10.0, delta = 1e-5 (RDP)
++ Shadow-model membership inference run against my own weights
++     AUC 0.54  ──  statistically a coin flip
++ Federated: 2 Flower clients, 5 FedAvg rounds, Docker Compose
++ SBERT natural-language interface over 8 urban scene presets
+
+# PyTorch · Opacus · Flower · UNet cGAN · Beta-VAE · SBERT · Streamlit
+# github.com/VibhorJain1974/Urban-GenX
 ```
 
-## `~/` stack
+```diff
+@@  MEMORIA · full-stack photo platform · LIVE  @@
 
-```ansi
-[38;5;245mPython      [0m[38;5;51m██████████████████████[0m[38;5;245m░░[0m [38;5;51m 92%[0m
-[38;5;245mTypeScript  [0m[38;5;51m█████████████████████[0m[38;5;245m░░░[0m [38;5;51m 86%[0m
-[38;5;245mFastAPI     [0m[38;5;48m█████████████████████[0m[38;5;245m░░░[0m [38;5;48m 88%[0m
-[38;5;245mNext.js     [0m[38;5;48m████████████████████[0m[38;5;245m░░░░[0m [38;5;48m 84%[0m
-[38;5;245mPyTorch     [0m[38;5;208m███████████████████[0m[38;5;245m░░░░░[0m [38;5;208m 78%[0m
-[38;5;245mPostgreSQL  [0m[38;5;141m██████████████████[0m[38;5;245m░░░░░░[0m [38;5;141m 74%[0m
-[38;5;245mDocker      [0m[38;5;141m████████████████[0m[38;5;245m░░░░░░░░[0m [38;5;141m 68%[0m
-[38;5;245mJava        [0m[38;5;198m███████████████[0m[38;5;245m░░░░░░░░░[0m [38;5;198m 62%[0m
++ SSR auth, admin/member/viewer RBAC enforced per group, invite codes
++ Direct-to-R2 presigned uploads — media never touches the DB tier
++ 4-table Postgres schema: photo, video, live-photo, boomerang
++ Scoped, built, debugged and deployed solo, end to end
+
+# Next.js 16 · TypeScript · Supabase · Cloudflare R2 · Tailwind v4
+# memoria-gamma-ten.vercel.app
+```
+
+```diff
+@@  CROP RADAR · GNN climate risk across 30 Indian agricultural zones  @@
+
++ LightGCN implemented in plain PyTorch. No torch_geometric.
++ 5-class risk classification over a 30-zone adjacency graph
++ SHAP KernelExplainer panel, PyDeck risk map, PDF report export
++ Live Open-Meteo + SoilGrids v2 ingestion, offline synthetic fallback
+
+# Python · PyTorch · LightGCN · SHAP · Streamlit · PyDeck
+# github.com/VibhorJain1974/crop_radar
+```
+
+```diff
+@@  HELIX · offline-first healthcare toolkit  @@
+
+! Zero server. Zero install. One URL, then works with the network off.
+
++ VERA    skin-lesion classification, TF.js + WebGL, 4s inference
++ VERUM   counterfeit-drug detection via CIELab + DCT analysis
++ ASCEND  WebGPU compute shaders + WebRTC mesh
++ pnpm monorepo, all inference on-device — no data leaves the phone
+
+# TypeScript · TensorFlow.js · WebGL · WebGPU · WebRTC · pnpm
+# github.com/VibhorJain1974/Helix
+```
+
+## stack
+
+```diff
++ Python       ████████████████████░░  92%
++ TypeScript   ███████████████████░░░  86%
++ FastAPI      ███████████████████░░░  88%
++ Next.js      ██████████████████░░░░  84%
++ PyTorch      █████████████████░░░░░  78%
++ PostgreSQL   ████████████████░░░░░░  74%
++ Docker       ███████████████░░░░░░░  68%
++ Java         ██████████████░░░░░░░░  62%
 ```
 
 ```ini
-[languages]   Python · TypeScript · JavaScript · Java · SQL · C/C++ · Bash
-[backend]     FastAPI · Node.js · REST APIs · SSE · PostgreSQL · Supabase
-[frontend]    Next.js · React · Tailwind CSS · Framer Motion · Radix UI
-[ml]          PyTorch · Scikit-learn · XGBoost · SHAP · SBERT · TensorFlow.js
-[privacy]     Opacus DP-SGD · Flower FedAvg · differential privacy
-[infra]       Docker · Vercel · Railway · Cloudflare R2 · Git
+[languages]  Python · TypeScript · JavaScript · Java · SQL · C/C++ · Bash
+[backend]    FastAPI · Node.js · REST APIs · SSE · PostgreSQL · Supabase
+[frontend]   Next.js · React · Tailwind CSS · Framer Motion · Radix UI
+[ml]         PyTorch · Scikit-learn · XGBoost · SHAP · SBERT · TensorFlow.js
+[privacy]    Opacus DP-SGD · Flower FedAvg · differential privacy
+[infra]      Docker · Vercel · Railway · Cloudflare R2 · Git
 ```
 
-## `~/` track record
+## track record
 
-```ansi
-[38;5;220m  #70 / 1,773   [0m[38;5;245mHackerRank Orchestrate  ·  June 2026  ·  Agentic AI Build[0m
-[38;5;220m  #246 / 12,885 [0m[38;5;245mHackerRank Orchestrate  ·  May 2026  ·  48 countries[0m
-[38;5;198m  TOP 10 / 200+ [0m[38;5;245mHackaccino 4.0  ·  Bennett University[0m
-[38;5;48m  100+ trained   [0m[38;5;245mGen AI Winter School  ·  Operations Head, Aarvak[0m
+```diff
+@@  competitions  @@
+
++ #70 / 1,773        HackerRank Orchestrate · June 2026 · Agentic AI Build
++ #246 / 12,885      HackerRank Orchestrate · May 2026 · 48 countries
++ Top 10 / 200+      Hackaccino 4.0 · Bennett University · Apr 2026
++ Round 1 MVP        FAR AWAY 2026 (Zuup) · Team 404_SHINOBI
+
+@@  leadership  @@
+
++ Operations Head    Aarvak Tech Society, VIPS-TC · 2025-present
++                    Gen AI Winter School — 100+ participants
++                    Code Royale Hackathon — tracks, logistics, mentoring
 ```
 
-## `~/` contact
+## contact
 
 ```console
 $ whois vibbhor
@@ -160,7 +162,7 @@ $ whois vibbhor
   email      jainvibbhor@gmail.com
   linkedin   linkedin.com/in/vibbhor-jain
   github     github.com/VibhorJain1974
-  location   Delhi NCR  ·  open to remote
+  location   Delhi NCR · open to remote
 
 $ _
 ```
