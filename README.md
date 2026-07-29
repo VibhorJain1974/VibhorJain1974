@@ -1,166 +1,166 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/VibhorJain1974/VibhorJain1974/main/assets/hero-banner.svg" width="100%" alt="Vibbhor Jain — Backend · Applied ML"/>
+```ansi
+[1;38;5;51m██╗  [1;38;5;45m ██╗[1;38;5;39m██╗█[1;38;5;33m█████[1;38;5;63m╗ ██[1;38;5;99m████[1;38;5;135m╗ ██╗[1;38;5;171m  ██[1;38;5;207m╗ ██[1;38;5;206m████╗[1;38;5;205m ███[1;38;5;199m███╗[0m
+[1;38;5;51m██║  [1;38;5;45m ██║[1;38;5;39m██║█[1;38;5;33m█╔══█[1;38;5;63m█╗██[1;38;5;99m╔══█[1;38;5;135m█╗██║[1;38;5;171m  ██[1;38;5;207m║██╔[1;38;5;206m═══██[1;38;5;205m╗██╔[1;38;5;199m══██[1;38;5;198m╗[0m
+[1;38;5;51m██║  [1;38;5;45m ██║[1;38;5;39m██║█[1;38;5;33m█████[1;38;5;63m╔╝██[1;38;5;99m████[1;38;5;135m╔╝███[1;38;5;171m████[1;38;5;207m║██║[1;38;5;206m   ██[1;38;5;205m║███[1;38;5;199m███╔[1;38;5;198m╝[0m
+[1;38;5;51m╚██╗ [1;38;5;45m██╔╝[1;38;5;39m██║█[1;38;5;33m█╔══█[1;38;5;63m█╗██[1;38;5;99m╔══█[1;38;5;135m█╗██╔[1;38;5;171m══██[1;38;5;207m║██║[1;38;5;206m   ██[1;38;5;205m║██╔[1;38;5;199m══██[1;38;5;198m╗[0m
+[1;38;5;51m ╚███[1;38;5;45m█╔╝ [1;38;5;39m██║█[1;38;5;33m█████[1;38;5;63m╔╝██[1;38;5;99m████[1;38;5;135m╔╝██║[1;38;5;171m  ██[1;38;5;207m║╚██[1;38;5;206m████╔[1;38;5;205m╝██║[1;38;5;199m  ██[1;38;5;198m║[0m
+[1;38;5;51m  ╚══[1;38;5;45m═╝  [1;38;5;39m╚═╝╚[1;38;5;33m═════[1;38;5;63m╝ ╚═[1;38;5;99m════[1;38;5;135m╝ ╚═╝[1;38;5;171m  ╚═[1;38;5;207m╝ ╚═[1;38;5;206m════╝[1;38;5;205m ╚═╝[1;38;5;199m  ╚═[1;38;5;198m╝[0m
+[1;38;5;51m     [1;38;5;45m    [1;38;5;39m    [1;38;5;33m    █[1;38;5;63m█╗ █[1;38;5;99m████[1;38;5;135m╗ ██╗[1;38;5;171m███╗[1;38;5;207m   █[1;38;5;206m█╗[0m
+[1;38;5;51m     [1;38;5;45m    [1;38;5;39m    [1;38;5;33m    █[1;38;5;63m█║██[1;38;5;99m╔══█[1;38;5;135m█╗██║[1;38;5;171m████[1;38;5;207m╗  █[1;38;5;206m█║[0m
+[1;38;5;51m     [1;38;5;45m    [1;38;5;39m    [1;38;5;33m    █[1;38;5;63m█║██[1;38;5;99m████[1;38;5;135m█║██║[1;38;5;171m██╔█[1;38;5;207m█╗ █[1;38;5;206m█║[0m
+[1;38;5;51m     [1;38;5;45m    [1;38;5;39m   █[1;38;5;33m█   █[1;38;5;63m█║██[1;38;5;99m╔══█[1;38;5;135m█║██║[1;38;5;171m██║╚[1;38;5;207m██╗█[1;38;5;206m█║[0m
+[1;38;5;51m     [1;38;5;45m    [1;38;5;39m   ╚[1;38;5;33m█████[1;38;5;63m╔╝██[1;38;5;99m║  █[1;38;5;135m█║██║[1;38;5;171m██║ [1;38;5;207m╚███[1;38;5;206m█║[0m
+[1;38;5;51m     [1;38;5;45m    [1;38;5;39m    [1;38;5;33m╚════[1;38;5;63m╝ ╚═[1;38;5;99m╝  ╚[1;38;5;135m═╝╚═╝[1;38;5;171m╚═╝ [1;38;5;207m ╚══[1;38;5;206m═╝[0m
 
-<br/><br/>
-
-[![Email](https://img.shields.io/badge/jainvibbhor@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jainvibbhor@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/vibbhor--jain-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vibbhor-jain)
-[![Profile Views](https://komarev.com/ghpvc/?username=VibhorJain1974&label=VISITORS&color=00e5ff&style=for-the-badge)](https://github.com/VibhorJain1974)
-
-</div>
-
----
-
-## whoami
-
-```yaml
-name:      Vibbhor Jain
-role:      Third-year B.Tech, AI & Machine Learning
-where:     VIPS-TC, GGSIPU — New Delhi, India
-focus:     [ backend, applied ML, systems for constrained devices ]
-shipping:  KAVACH — space weather alerts via Hindi voice calls
-status:    open to software / ML engineering internships
+[38;5;245m      backend  ·  applied ML  ·  systems for constrained devices[0m
 ```
 
-The question I keep coming back to isn't whether a model can do something. It's whether the result can reach a person on a 2G connection holding a phone that doesn't run apps.
-
-That's why KAVACH is a **phone call** and not a dashboard, and why Helix runs entirely **in the browser** with no server behind it.
-
----
-
-## KAVACH — how it actually works
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/VibhorJain1974/VibhorJain1974/main/assets/kavach-pipeline.svg" width="100%" alt="KAVACH alert pipeline"/>
-
 </div>
 
-> The May 2024 geomagnetic storm was the strongest in 20 years. India's grid utilities got **zero** automated warning.
+```yaml
+# ─────────────────────────────────────────────────────────────────────
+name:       Vibbhor Jain
+role:       Third-year B.Tech, AI & Machine Learning
+university: VIPS-TC, GGSIPU — New Delhi, India
+cgpa:       7.8 / 10
+focus:      [ backend, applied ML, systems for constrained devices ]
+shipping:   KAVACH — space weather alerts via Hindi voice calls
+status:     open to software / ML engineering internships
+contact:    jainvibbhor@gmail.com
+# ─────────────────────────────────────────────────────────────────────
+```
 
-- Polls **NASA DONKI** every 15 min and **NOAA SWPC** every 5 min — no human trigger anywhere in the loop
-- Classifies storm severity and maps risk onto **28 Indian DISCOM grid zones** by lat/lng
-- Delivers via **Twilio Programmable Voice + Amazon Polly `hi-IN`** — Hindi calls to basic feature phones. No app. No internet. No smartphone.
-- **13-endpoint FastAPI backend** with SSE streaming; full storm replay renders in **22.6s**
-- Backtested on 4 historical storms (2003–2024): 847 simulated alerts, ~6 hr mean lead time
+```console
+$ vibbhor --thesis
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
+  The question isn't whether a model can do something.
+  It's whether the result can reach a person on a 2G connection
+  holding a phone that doesn't run apps.
 
-**[→ repository](https://github.com/VibhorJain1974/kavach-faraway-2026)**
+  That's why KAVACH is a phone call and not a dashboard,
+  and why Helix runs entirely in the browser with no server.
+```
 
----
+## `~/` builds
 
-## Everything else I've built
+```ansi
+[38;5;51m╭─[ KAVACH ]───────────────────────────────────────────────────────────────╮[0m
+[38;5;51m│[0m [1;38;5;255mAutonomous space weather shield        LIVE  ·  Team 404_SHINOBI[0m         [38;5;51m│[0m
+[38;5;51m│[0m [0m                                                                         [38;5;51m│[0m
+[38;5;51m│[0m [38;5;245mMay 2024 brought the strongest geomagnetic storm in 20 years.[0m            [38;5;51m│[0m
+[38;5;51m│[0m [38;5;245mIndia's grid utilities got zero automated warning.[0m                       [38;5;51m│[0m
+[38;5;51m│[0m [0m                                                                         [38;5;51m│[0m
+[38;5;51m│[0m [38;5;51mNASA DONKI  ─┐[0m                                                           [38;5;51m│[0m
+[38;5;51m│[0m [38;5;51m             ├──>  severity model  ──>  28 DISCOM zones  ──>  CALL[0m       [38;5;51m│[0m
+[38;5;51m│[0m [38;5;51mNOAA SWPC   ─┘[0m                                                           [38;5;51m│[0m
+[38;5;51m│[0m [0m                                                                         [38;5;51m│[0m
+[38;5;51m│[0m [38;5;48m+ Hindi voice calls to feature phones. No app. No internet.[0m              [38;5;51m│[0m
+[38;5;51m│[0m [38;5;48m+ 13-endpoint FastAPI backend, SSE streaming, 22.6s replay[0m               [38;5;51m│[0m
+[38;5;51m│[0m [38;5;48m+ Backtested on 4 storms: 847 alerts, ~6 hr mean lead time[0m               [38;5;51m│[0m
+[38;5;51m│[0m [0m                                                                         [38;5;51m│[0m
+[38;5;51m│[0m [38;5;198mFastAPI · APScheduler · Next.js 14 · Supabase · Twilio · Railway[0m         [38;5;51m│[0m
+[38;5;51m╰──────────────────────────────────────────────────────────────────────────╯[0m
 
-<details>
-<summary><b>Urban-GenX — Privacy-Preserving Synthetic City Digital Twin</b></summary>
+[38;5;141m╭─[ URBAN-GENX ]───────────────────────────────────────────────────────────╮[0m
+[38;5;141m│[0m [1;38;5;255mPrivacy-preserving synthetic city digital twin[0m                           [38;5;141m│[0m
+[38;5;141m│[0m [0m                                                                         [38;5;141m│[0m
+[38;5;141m│[0m [38;5;245mMost "private" ML claims are never tested. So I attacked my own model.[0m   [38;5;141m│[0m
+[38;5;141m│[0m [0m                                                                         [38;5;141m│[0m
+[38;5;141m│[0m [38;5;48m+ DP-SGD on a cGAN discriminator at eps <= 10.0, delta = 1e-5[0m            [38;5;141m│[0m
+[38;5;141m│[0m [38;5;48m+ Shadow-model membership inference run against my own weights[0m           [38;5;141m│[0m
+[38;5;141m│[0m [38;5;220m      AUC 0.54  ──  statistically a coin flip[0m                            [38;5;141m│[0m
+[38;5;141m│[0m [38;5;48m+ Federated: 2 Flower clients, 5 FedAvg rounds, Docker Compose[0m           [38;5;141m│[0m
+[38;5;141m│[0m [0m                                                                         [38;5;141m│[0m
+[38;5;141m│[0m [38;5;198mPyTorch · Opacus · Flower · UNet cGAN · Beta-VAE · SBERT[0m                 [38;5;141m│[0m
+[38;5;141m╰──────────────────────────────────────────────────────────────────────────╯[0m
 
-<br/>
+[38;5;48m╭─[ MEMORIA ]──────────────────────────────────────────────────────────────╮[0m
+[38;5;48m│[0m [1;38;5;255mFull-stack photo platform                                     LIVE[0m       [38;5;48m│[0m
+[38;5;48m│[0m [0m                                                                         [38;5;48m│[0m
+[38;5;48m│[0m [38;5;48m+ SSR auth, admin/member/viewer RBAC enforced per group[0m                  [38;5;48m│[0m
+[38;5;48m│[0m [38;5;48m+ Direct-to-R2 presigned uploads, media never hits the DB tier[0m           [38;5;48m│[0m
+[38;5;48m│[0m [38;5;48m+ 4-table Postgres schema: photo, video, live-photo, boomerang[0m           [38;5;48m│[0m
+[38;5;48m│[0m [38;5;48m+ Scoped, built, debugged and deployed solo, end to end[0m                  [38;5;48m│[0m
+[38;5;48m│[0m [0m                                                                         [38;5;48m│[0m
+[38;5;48m│[0m [38;5;198mNext.js 16 · TypeScript · Supabase · Cloudflare R2 · Tailwind v4[0m         [38;5;48m│[0m
+[38;5;48m╰──────────────────────────────────────────────────────────────────────────╯[0m
 
-> Most "private" ML claims are never tested. So I attacked my own model.
+[38;5;208m╭─[ CROP RADAR ]───────────────────────────────────────────────────────────╮[0m
+[38;5;208m│[0m [1;38;5;255mGNN climate risk across 30 Indian agricultural zones[0m                     [38;5;208m│[0m
+[38;5;208m│[0m [0m                                                                         [38;5;208m│[0m
+[38;5;208m│[0m [38;5;48m+ LightGCN in plain PyTorch. No torch_geometric.[0m                         [38;5;208m│[0m
+[38;5;208m│[0m [38;5;48m+ 5-class risk classification over a 30-zone adjacency graph[0m             [38;5;208m│[0m
+[38;5;208m│[0m [38;5;48m+ SHAP KernelExplainer, PyDeck risk map, PDF export[0m                      [38;5;208m│[0m
+[38;5;208m│[0m [38;5;48m+ Live Open-Meteo + SoilGrids v2 ingestion, offline fallback[0m             [38;5;208m│[0m
+[38;5;208m│[0m [0m                                                                         [38;5;208m│[0m
+[38;5;208m│[0m [38;5;198mPython · PyTorch · LightGCN · SHAP · Streamlit · PyDeck[0m                  [38;5;208m│[0m
+[38;5;208m╰──────────────────────────────────────────────────────────────────────────╯[0m
 
-- DP-SGD on a cGAN discriminator at **ε ≤ 10.0, δ = 1e-5** via RDP accountant
-- Ran a shadow-model **membership inference attack** against my own weights → **AUC ≈ 0.54**, statistically a coin flip
-- Federated across 2 Flower clients over 5 FedAvg rounds, Dockerised, 8-check sanity suite
-- SBERT natural-language interface mapping free text to 8 urban scene presets
+[38;5;198m╭─[ HELIX ]────────────────────────────────────────────────────────────────╮[0m
+[38;5;198m│[0m [1;38;5;255mOffline-first healthcare toolkit[0m                                         [38;5;198m│[0m
+[38;5;198m│[0m [0m                                                                         [38;5;198m│[0m
+[38;5;198m│[0m [38;5;245mZero server. Zero install. One URL, then works with the network off.[0m     [38;5;198m│[0m
+[38;5;198m│[0m [0m                                                                         [38;5;198m│[0m
+[38;5;198m│[0m [38;5;48m+ VERA    skin-lesion classification, TF.js + WebGL, 4s inference[0m        [38;5;198m│[0m
+[38;5;198m│[0m [38;5;48m+ VERUM   counterfeit-drug detection via CIELab + DCT[0m                    [38;5;198m│[0m
+[38;5;198m│[0m [38;5;48m+ ASCEND  WebGPU compute shaders + WebRTC mesh[0m                           [38;5;198m│[0m
+[38;5;198m│[0m [0m                                                                         [38;5;198m│[0m
+[38;5;198m│[0m [38;5;198mTypeScript · TensorFlow.js · WebGL · WebGPU · WebRTC · pnpm[0m              [38;5;198m│[0m
+[38;5;198m╰──────────────────────────────────────────────────────────────────────────╯[0m
+```
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+```console
+$ ls -1 ~/repos --sort=impact
 
-**[→ repository](https://github.com/VibhorJain1974/Urban-GenX)**
+  kavach-faraway-2026   github.com/VibhorJain1974/kavach-faraway-2026
+  Urban-GenX            github.com/VibhorJain1974/Urban-GenX
+  memoria               memoria-gamma-ten.vercel.app
+  crop_radar            github.com/VibhorJain1974/crop_radar
+  Helix                 github.com/VibhorJain1974/Helix
+```
 
-</details>
+## `~/` stack
 
-<details>
-<summary><b>Memoria — Full-Stack Photo Platform</b> · <code>LIVE</code></summary>
+```ansi
+[38;5;245mPython      [0m[38;5;51m██████████████████████[0m[38;5;245m░░[0m [38;5;51m 92%[0m
+[38;5;245mTypeScript  [0m[38;5;51m█████████████████████[0m[38;5;245m░░░[0m [38;5;51m 86%[0m
+[38;5;245mFastAPI     [0m[38;5;48m█████████████████████[0m[38;5;245m░░░[0m [38;5;48m 88%[0m
+[38;5;245mNext.js     [0m[38;5;48m████████████████████[0m[38;5;245m░░░░[0m [38;5;48m 84%[0m
+[38;5;245mPyTorch     [0m[38;5;208m███████████████████[0m[38;5;245m░░░░░[0m [38;5;208m 78%[0m
+[38;5;245mPostgreSQL  [0m[38;5;141m██████████████████[0m[38;5;245m░░░░░░[0m [38;5;141m 74%[0m
+[38;5;245mDocker      [0m[38;5;141m████████████████[0m[38;5;245m░░░░░░░░[0m [38;5;141m 68%[0m
+[38;5;245mJava        [0m[38;5;198m███████████████[0m[38;5;245m░░░░░░░░░[0m [38;5;198m 62%[0m
+```
 
-<br/>
+```ini
+[languages]   Python · TypeScript · JavaScript · Java · SQL · C/C++ · Bash
+[backend]     FastAPI · Node.js · REST APIs · SSE · PostgreSQL · Supabase
+[frontend]    Next.js · React · Tailwind CSS · Framer Motion · Radix UI
+[ml]          PyTorch · Scikit-learn · XGBoost · SHAP · SBERT · TensorFlow.js
+[privacy]     Opacus DP-SGD · Flower FedAvg · differential privacy
+[infra]       Docker · Vercel · Railway · Cloudflare R2 · Git
+```
 
-- SSR auth via `@supabase/ssr` with admin/member/viewer RBAC enforced per group, invite-code join flow
-- **Direct-to-R2 presigned uploads** — media never touches the database tier, served over CDN
-- 4-table Postgres schema supporting photo, video, live-photo and boomerang types
-- Scoped, built, debugged and deployed solo, end to end
+## `~/` track record
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare_R2-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+```ansi
+[38;5;220m  #70 / 1,773   [0m[38;5;245mHackerRank Orchestrate  ·  June 2026  ·  Agentic AI Build[0m
+[38;5;220m  #246 / 12,885 [0m[38;5;245mHackerRank Orchestrate  ·  May 2026  ·  48 countries[0m
+[38;5;198m  TOP 10 / 200+ [0m[38;5;245mHackaccino 4.0  ·  Bennett University[0m
+[38;5;48m  100+ trained   [0m[38;5;245mGen AI Winter School  ·  Operations Head, Aarvak[0m
+```
 
-**[→ live](https://memoria-gamma-ten.vercel.app)** · **[→ repository](https://github.com/VibhorJain1974/memoria)**
+## `~/` contact
 
-</details>
+```console
+$ whois vibbhor
 
-<details>
-<summary><b>Crop Radar — GNN Climate Risk Intelligence</b></summary>
+  email      jainvibbhor@gmail.com
+  linkedin   linkedin.com/in/vibbhor-jain
+  github     github.com/VibhorJain1974
+  location   Delhi NCR  ·  open to remote
 
-<br/>
-
-- **LightGCN written in plain PyTorch** — no torch_geometric — over a 30-zone adjacency graph
-- 5-class agricultural risk classification across Indian farming regions
-- Live ingestion from Open-Meteo Archive + SoilGrids v2, synthetic fallback for offline runs
-- SHAP KernelExplainer panel so predictions are explainable, not just accurate
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-**[→ repository](https://github.com/VibhorJain1974/crop_radar)**
-
-</details>
-
-<details>
-<summary><b>Helix — Offline-First Healthcare Toolkit</b></summary>
-
-<br/>
-
-> Zero server. Zero install. Loads from one URL, then works with the network off.
-
-- **VERA** — skin-lesion classification, TF.js + WebGL, 4s inference
-- **VERUM** — counterfeit-drug detection via CIELab + DCT analysis
-- **ASCEND** — WebGPU compute shaders + WebRTC mesh
-- pnpm monorepo, all inference on-device — no data leaves the phone
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow.js-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![WebGPU](https://img.shields.io/badge/WebGPU-005A9C?style=flat-square&logo=webgl&logoColor=white)
-
-**[→ repository](https://github.com/VibhorJain1974/Helix)**
-
-</details>
-
----
-
-## Toolbox
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript,java,cpp,fastapi,nextjs,react,nodejs,tailwind&theme=dark" />
-<br/>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,postgres,supabase,mongodb,docker,git,vercel,linux,vscode&theme=dark" />
-
-</div>
-
----
-
-## Activity
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VibhorJain1974&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&langs_count=8&cache_seconds=86400" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=VibhorJain1974&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00E5FF&line=00E5FF&point=FFFFFF&area=true" width="100%" />
-
-</div>
-
----
-
-<div align="center">
-
-<sub>Open to software and ML engineering internships · Delhi NCR / Remote</sub>
-
-</div>
+$ _
+```
